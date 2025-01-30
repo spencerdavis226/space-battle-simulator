@@ -1,8 +1,21 @@
-# React + Vite
+# 🚀 Space Battle Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **turn-based space battle simulator** built with **React**.
 
-Currently, two official plugins are available:
+## 🛠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Players take turns attacking until one ship is destroyed.
+- Randomized damage values for both player and enemy.
+- Displays game status (Win, Lose, or Draw).
+- Restart button to play again.
+
+## 📷 Screenshot
+
+![Gameplay](screenshot.png) <!-- Add a real screenshot later -->
+
+## 🛠 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/space-battle-simulator.git
+   ```
