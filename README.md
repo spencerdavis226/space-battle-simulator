@@ -11,7 +11,7 @@ A simple **turn-based space battle simulator** built with **React**.
 
 ## 📷 Screenshot
 
-![Gameplay](screenshot.png) <!-- Add a real screenshot later -->
+![Gameplay](./screenshot.png)
 
 ## 🛠 Installation & Setup
 
